@@ -1,0 +1,30 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+    text-align: center;
+    font-weight: 21px;
+    background-color: rgba(87, 128, 0, 0.891);
+    color: white;
+    padding: 20px;
+}
+
+ul{
+    padding: 0;
+    margin: 0;
+}
+
+li{
+    text-align: center;
+    list-style-type: none;
+    background-color: rgba(87, 128, 0, 0.891);
+    color: white;
+    list-style: none;
+    padding: 10px;
+}
+
+a{
+    display: block;
+    text-decoration: none;
+}
